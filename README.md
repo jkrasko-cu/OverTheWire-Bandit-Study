@@ -10,6 +10,8 @@ This repository will be my notes and documentation through the Bandit wargames f
 **The Basics You'd Find in an Intro Course:**
 - Level0 -> Level1 (levels/level00-01.md): Reading a file
 - Level1 -> Level2 (levels/level01-02.md): Reading a file with special characters
+- Level2 -> Level3 (levels/level02-03.md): Reading a file with spaces
+- Level3 -> Level4 (levels/level03-04.md): Viewing hidden files
 
 **File Searching:**
 - Level4 -> Level5 (levels/level04-05.md): Identifying file types using 'file'

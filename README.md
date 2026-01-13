@@ -20,7 +20,7 @@ As the write-ups progress, they will delve more into practical real-world applic
 **File Searching:**
 - Level4 -> Level5 (levels/level04-05.md): Identifying file types using `file`
 - Level5 -> Level6 (levels/level05-06.md): Specific file searches using `find`
-- Level6 -> Level7 (levels/level06-07.md): Finding files server-wide
+- [Level6 -> Level7](levels/level06-07.md): Finding files server-wide
 
 **Text Processing:**
 - Level7 -> Level8 (levels/level07-08.md): Using `grep` to search through text files

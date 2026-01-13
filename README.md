@@ -11,6 +11,7 @@ As the write-ups progress, they will delve more into practical real-world applic
 
 ## Concepts and Skills by Levels
 **The Basics You'd Find in an Intro Course:**
+(Note: These are simple levels without much depth to the solution or application. See later write-ups)
 - [Level0 -> Level1](levels/level00-01.md): Reading a file
 - [Level1 -> Level2](levels/level01-02.md): Reading a file with special characters
 - [Level2 -> Level3](levels/level02-03.md): Reading a file with spaces
